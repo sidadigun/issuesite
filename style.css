@@ -2,10 +2,10 @@
 body {
 font-family: monospace;
 text-align: center;
-
+background-color: #f2fafa;
 }
 header{
-background-color: lightseagreen;
+background-color: #fcdbd9;
 text-align: left;
 }
 
